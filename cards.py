@@ -1,3 +1,7 @@
+"""
+Module for creating card games. Simple framework for a deck of cards and it's functions
+"""
+
 import random
 
 class deck:
